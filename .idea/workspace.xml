@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dd60ee2-8c80-481a-9142-e620f9b5abd1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proto/inventory.proto" beforeDir="false" afterPath="$PROJECT_DIR$/proto/inventory.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/controller/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/controller/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/inventory/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/inventory/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shipping.Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,21 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sebas/Documents/Projetos/micro-livraria&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="shipping.Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="shipping.Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.shipping.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
